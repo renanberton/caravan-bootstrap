@@ -7,5 +7,5 @@ Accordion, modal, menu-accordion, componentes como botões, etc, carrousel, navb
 
 Confira em:
 
-https://renanberton.github.io/Caravan/
+https://renanberton.github.io/caravan-bootstrap/
 # caravan-bootstrap
